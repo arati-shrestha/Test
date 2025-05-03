@@ -12,7 +12,7 @@ def convert_to_snake_case(pascal_or_camel_cased_string):
     return ''.join(snake_cased_char_list).strip('_')
 
 def main():
-    text = input("Enter any string in camelCase or PascalCase format:")
+    text = input("Enter any string in camelCase or PascalCase format you silly:")
     print(convert_to_snake_case(text))
 
     
