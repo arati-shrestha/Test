@@ -1,0 +1,17 @@
+PROBLEM TEARDOWN:
+   - we are given dataset of houses prices with some features like number of bathroom, no. of bedrooms,etc
+    -our task is create a model which will predict the price for any new house by looking at the features
+
+OBJECTIVE:
+    - how will this model benifit?
+    - to increase the accuracy of price prediction automatically.
+
+FINDING THE TYPE OF MODEL TO BUILD
+    -Supervised learning
+    -Regression task (not classification task since the model figures out sepcific value but not classify data into different classes)
+    -BATCH LEARNING: we already have data and we make a model
+    -ONLIINE LEARNING TECHNIQUE: datas are coming online and the model is being trained
+    -in this model we will use Batch learning
+
+SELECTING A PERFORMANCE MEASURE(how to identify solution or on what basis should we apply the solution)
+    -
